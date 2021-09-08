@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <Datepicker date="2020-12-31"/>
+    <Datepicker date="2028-02-01"/>
   </div>
 </template>
 
